@@ -30,8 +30,7 @@ function Services() {
               </Box>
               <Heading fontSize="xl">Clean Food Court</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+                A clean food court ensures a hygienic and enjoyable dining experience for all."
               </Text>
             </VStack>
             <VStack
@@ -47,8 +46,7 @@ function Services() {
               </Box>
               <Heading fontSize="xl">Building structures</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+              Building structures encompass the physical framework and architecture that shape our urban and rural environments
               </Text>
             </VStack>
 
@@ -65,8 +63,7 @@ function Services() {
               </Box>
               <Heading fontSize="xl">Entertainment</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+              "Entertainment transports us to worlds of imagination and emotion, providing moments of joy and escap
               </Text>
             </VStack>
             <VStack
@@ -82,8 +79,7 @@ function Services() {
               </Box>
               <Heading fontSize="xl">Local and International Brand</Heading>
               <Text color="gray.500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore
+              Local brands showcase the heart of our community, while international brands bring the world's diversity to your doorstep
               </Text>
             </VStack>
           </SimpleGrid>
