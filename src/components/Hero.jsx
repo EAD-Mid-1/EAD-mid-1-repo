@@ -54,9 +54,7 @@ function Hero() {
                 A Dedicated Team to Elevate Your Shopping Center
               </Heading>
               <Text fontSize="xl" color="gray.600">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque,
-                perspiciatis eveniet ad dicta rerum eligendi esse quis nostrum
-                voluptas aut.
+              As you step into the world of [Your Shopping Website Name], you're not just a shopper; you're a valued member of our ever-growing community. Be part of a place where your shopping desires meet limitless choices, and where convenience meets quality. 
               </Text>
               <Button>Get Started</Button>
             </VStack>
