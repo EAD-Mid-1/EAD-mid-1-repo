@@ -8,11 +8,7 @@ function Testimonial() {
           <Avatar src="./main_img.jpeg" size="2xl" />
           <Heading mt={2} color="primary.500">David</Heading>
           <Text fontSize="xl" mt={5} color="gray.600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            con Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatu.
+          As the owner of the Dream Shopping Center, I'm dedicated to redefining the retail experience. We're more than just a shopping destination; we're a hub of innovation, sustainability, and community engagement. Join us in turning your shopping dreams into reality. Welcome to the Dream Shopping Center.
           </Text>
         </VStack>
       </Container>
