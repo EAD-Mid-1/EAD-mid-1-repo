@@ -17,7 +17,7 @@ function Navbar() {
         <HStack w="full" justifyContent="space-between" alignItems="center" py={4}>
           <HStack alignItems="center">
             
-            <Text fontWeight="bold">Dream Shopping Center</Text>
+            <Text fontWeight="bold" color="primary.500" >Dream Shopping Center</Text>
           </HStack>
           <HStack fontWeight="bold" gap={5} color="gray.600">
             <Link display={["none", "none", "block"]} href="/#about">About Us</Link>
