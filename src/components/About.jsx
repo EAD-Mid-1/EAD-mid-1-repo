@@ -22,11 +22,7 @@ function About() {
               <Image src="./aboutus.jfif" w="full" h="full" objectFit="cover" />
             </Box>
             <Text fontSize="lg" mt="10px">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo con Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatu.
+            Welcome to the Dream Shopping Center, where your retail fantasies come to life. At our shopping center, we're dedicated to creating an unparalleled shopping experience that transcends the ordinary. Our mission is to be more than just a place to shop; we aim to be a destination where you can explore, connect, and indulge in a world of fashion, food, entertainment, and culture. With visionary design, an array of top-notch stores, and a commitment to sustainability and community engagement, we've crafted a space that's not just a shopping center but a thriving hub of life and leisure. Join us on this journey, and let the Dream Shopping Center be your destination for inspiration, indulgence, and unforgettable memories. Come dream with us, and let your retail dreams take flight.
               </Text>
           </VStack>
         </SimpleGrid>
